@@ -1,6 +1,6 @@
 # 🎬 Leo Advanced Filter Bot
 
-A powerful, modern OTT-style Telegram Movie Auto Filter Bot built on top of the open-source **ShobanaFilterBot V8** by [mn-bots](https://github.com/mn-bots/ShobanaFilterBot).
+A powerful, modern OTT-style Telegram Movie Auto Filter Bot built on top of the open-source **ShobanaFilterBot** by [mn-bots](https://github.com/mn-bots/ShobanaFilterBot).
 
 ---
 
